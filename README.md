@@ -1,5 +1,5 @@
 # MVAvaliator
-Avaliador de filmes desenvolvido com Spring no backend e React no front.
+Avaliador de filmes desenvolvido com Java SpringBoot no backend e React no front.
 
 Você pode navegar pelo projeto por meio do Netlify, upado na nuvem.
 https://mvavaliator.netlify.app
