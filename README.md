@@ -2,7 +2,7 @@
 Avaliador de filmes desenvolvido com Java SpringBoot no backend e React no front.
 
 Você pode navegar pelo projeto por meio do Netlify.
-https://mvavaliator.netlify.app
+https://mvavaliator.netlify.app (O site pode demorar alguns segundos para carregas os filmes).
 
 
                           
