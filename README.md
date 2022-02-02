@@ -5,6 +5,6 @@ Você pode navegar pelo projeto por meio do Netlify.
 https://mvavaliator.netlify.app
 
 
-                          Java Javascript Typescript Postman Github Heroku Netlify Postgresql Spring React Git Vscode Bootstrap
+                          
 
 ![image](https://user-images.githubusercontent.com/75635849/149609055-e033ba12-1f87-45e1-9296-d87f7b44b506.png)
