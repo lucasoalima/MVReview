@@ -1,4 +1,4 @@
-# MVAvaliator
+# MVReviewer
 Avaliador de filmes desenvolvido com Java SpringBoot no backend e React no front.
 
 Você pode navegar pelo projeto por meio do Netlify.
