@@ -13,7 +13,7 @@
 
 ## 📝 About:
 
-Personal project about movies to improve my Java skills.
+Personal project using **Java-springboot and ReactJS** about movies to improve my Java skills.
 
 ---
 
