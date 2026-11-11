@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://mvavaliator.netlify.app"><b>🔗 Live demo</b></a> &middot;
+  <a href="https://mvavaliator.netlify.app"><b>🔗 Live demo (UI only — API offline)</b></a> &middot;
   <img src="https://img.shields.io/badge/Java-17-orange" alt="Java">
   <img src="https://img.shields.io/badge/Spring_Boot-3-brightgreen" alt="Spring Boot">
   <img src="https://img.shields.io/badge/React-17-blue" alt="React">
